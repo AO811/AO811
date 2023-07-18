@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AO811
 - 👀 I’m interested in CyberSecurity and Web Development
 - 🌱 I’m currently learning Python, Java, HTML
-- 💞️ I’m looking to collaborate on Java projects
+- 💞️ I’m looking to collaborate on CyberSecurity and Web Development projects
 - 📫 How to reach me abhikdas0811@gmail.com
 
 <!---
