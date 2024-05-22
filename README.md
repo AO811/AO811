@@ -1,4 +1,5 @@
-![image](https://github.com/AO811/AO811/assets/130923397/7fa05394-36f1-4cce-9a1a-b41d43b68594)
+![image](https://github.com/AO811/AO811/assets/130923397/4019efc5-13f6-4b0e-be74-2fb3b9c6e7d8)
+
 - 👋 Hi, I’m @AO811
 - 👀 I’m interested in CyberSecurity and Web Development
 - 🌱 I’m currently learning DSA
