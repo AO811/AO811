@@ -3,7 +3,7 @@
 - 👋 Hi, I’m @AO811
 - 👀 I’m interested in CyberSecurity and Web Development
 - 🌱 I’m currently learning DSA
-- 💞️ I’m looking to collaborate on CyberSecurity and Web Development projects
+- 💞️ I’m looking to collaborate on projects related to Web Development, Data Analytics and Cybersecurity.
 - 📫 How to reach me abhikdas0811@gmail.com
 
 <!---
