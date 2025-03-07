@@ -49,7 +49,7 @@ goal: Be the Next Tech Magician 🔥
 
 ### 🐍 Snake Contribution
 <p align="center">
-  <img src="https://github.com/AO811/AO811/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/AO811/AO811/main/dist/github-contribution-grid-snake.svg" />
 </p>
 
 ---
