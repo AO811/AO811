@@ -35,8 +35,8 @@ goal: Be the Next Tech Magician 🔥
 
 ---
 
-### 📅 Monthly GitHub Activity Graph
-![Abhik's Monthly GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AO811&theme=radical&area=true&hide_border=true&custom_title=Monthly%20Activity%20Graph&interval=monthly)
+### 📈 GitHub Activity Graph
+![Abhik's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AO811&theme=radical&hide_border=true)
 
 ---
 
