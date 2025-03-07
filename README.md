@@ -36,7 +36,7 @@ goal: Be the Next Tech Magician 🔥
 ---
 
 ### 📈 GitHub Activity Graph
-![Abhik's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=AO811&theme=react-dark)
+![Abhik's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AO811&theme=radical&hide_border=true)
 
 ---
 
