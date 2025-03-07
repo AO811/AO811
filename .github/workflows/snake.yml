@@ -1,4 +1,4 @@
-name: Generate Snake
+name: Generate Snake Contribution 🐍
 
 on:
   schedule:
@@ -6,19 +6,22 @@ on:
   workflow_dispatch:
 
 jobs:
-  generate:
+  snake:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
+      - name: Checkout Code
         uses: actions/checkout@v3
-      - name: Generate Snake
+
+      - name: Generate Snake SVG
         uses: Platane/snk@v3
         with:
           github_user_name: AO811
           outputs: |
             dist/github-contribution-grid-snake.svg
-      - name: Push generated snake
+
+      - name: Commit and Push Changes
         uses: EndBug/add-and-commit@v9
         with:
-          message: "Generate contribution snake"
+          message: "🐍 Snake Contribution Generated"
           add: "dist/github-contribution-grid-snake.svg"
+          push: true
