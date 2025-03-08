@@ -76,14 +76,18 @@ goal: Be the Next Tech Magician 🔥
 
 ---
 
-### ☕ Buy Me a Coffee
-If you like my work, consider buying me a coffee ☕  
-<a href="https://www.buymeacoffee.com/abhikdas" target="_blank">
-    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-F4A460?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" alt="Buy Me A Coffee Badge">
+### 💡 LeetCode Profile
+If you love coding challenges, check out my LeetCode journey! 🚀  
+<a href="https://leetcode.com/Aggreoto/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Badge"/>
 </a>
 
 ---
 
+### 💡 LeetCode Stats
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Aggreoto?theme=dark&font=Fira%20Code&ext=heatmap)](https://leetcode.com/YOUR_USERNAME/)
+
+---
 ### 📌 Fun Quote
 ![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
