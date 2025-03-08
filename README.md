@@ -64,6 +64,23 @@ goal: Be the Next Tech Magician 🔥
 
 ---
 
+### 💡 LeetCode Profile
+If you love coding challenges, check out my LeetCode journey! 🚀  
+
+<p align="center">
+  <a href="https://leetcode.com/Aggreoto/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Badge"/>
+  </a>
+</p>
+
+### 📊 LeetCode Stats
+<p align="center">
+  <a href="https://leetcode.com/Aggreoto/">
+    <img src="https://leetcard.jacoblin.cool/Aggreoto?font=Fira%20Code&ext=heatmap" alt="LeetCode Stats Card"/>
+  </a>
+</p>
+
+---
 ### 💬 Let's Connect
 <p align="center">
   <a href="https://www.linkedin.com/in/abhikdas0811">
@@ -73,19 +90,6 @@ goal: Be the Next Tech Magician 🔥
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail" alt="Gmail Badge"/>
   </a>
 </p>
-
----
-
-### 💡 LeetCode Profile
-If you love coding challenges, check out my LeetCode journey! 🚀  
-<a href="https://leetcode.com/Aggreoto/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Badge"/>
-</a>
-
----
-
-### 💡 LeetCode Stats
-[![LeetCode Stats](https://leetcard.jacoblin.cool/Aggreoto?theme=dark&font=Fira%20Code&ext=heatmap)](https://leetcode.com/YOUR_USERNAME/)
 
 ---
 ### 📌 Fun Quote
