@@ -1,7 +1,7 @@
 
 <!-- Banner Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=F70000&width=435&lines=Welcome+to+My+GitHub+Profile!;Full+Stack+Developer+%7C+Cybersecurity+Enthusiast;Passionate+about+Tech+and+Innovation" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=82aaff&width=435&lines=Welcome+to+My+GitHub+Profile!;Full+Stack+Developer+%7C+Cybersecurity+Enthusiast;Passionate+about+Tech+and+Innovation" alt="Typing SVG" />
 </p>
 
 # Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm **Abhik Das**
@@ -16,6 +16,7 @@ age: 20
 current_focus: Full Stack Development | Cybersecurity | Data Analytics
 learning: DSA + Web Dev
 goal: Be the Next Tech Magician 🔥
+
 ```
 
 ---
@@ -36,13 +37,13 @@ goal: Be the Next Tech Magician 🔥
 ---
 
 ### 📈 GitHub Activity Graph
-![Abhik's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AO811&theme=radical&hide_border=true)
+![Abhik's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AO811&theme=tokyonight&hide_border=true)
 
 ---
 
 ### 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AO811&theme=onedark&no-frame=true" alt="GitHub Trophies">
+  <img src="https://github-profile-trophy.vercel.app/?username=AO811&theme=tokyonight&no-frame=true" alt="GitHub Trophies">
 </p>
 
 ---
@@ -56,9 +57,10 @@ goal: Be the Next Tech Magician 🔥
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AO811&show_icons=true&theme=radical" height="160px" />
-  <img src="https://streak-stats.demolab.com?user=AO811&theme=radical" height="160px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AO811&show_icons=true&theme=tokyonight" height="160px" />
+  <img src="https://streak-stats.demolab.com?user=AO811&theme=tokyonight" height="160px" />
 </p>
+
 
 ---
 
