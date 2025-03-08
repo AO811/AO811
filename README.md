@@ -23,7 +23,7 @@ goal: Be the Next Tech Magician 🔥
 
 ## 🛠️ **Technical Skills**
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,react,nodejs,mongodb,mysql,html,css,bootstrap,git,github,arduino,vscode" />
+  <img src="https://skillicons.dev/icons?i=java,python,javascript,mongodb,mysql,react,nodejs,expressjs,html,css,bootstrap,git,github,vscode,eclipse,arduino,raspberrypi" />
 </div>
 
 ---
