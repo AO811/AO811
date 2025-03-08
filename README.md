@@ -1,10 +1,10 @@
 
 <!-- Banner Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=82aaff&width=435&lines=Welcome+to+My+GitHub+Profile!;Full+Stack+Developer+%7C+Cybersecurity+Enthusiast;Passionate+about+Tech+and+Innovation" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=82aaff&width=435&lines=Welcome+to+My+GitHub+Profile!;Passionate+about+Tech+and+Innovation" alt="Typing SVG" />
 </p>
 
-# Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm **Abhik Das**
+# Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm **Abhik**
 ### 🚀 A Passionate Computer Science Student & Future Software Engineer  
 
 ---
