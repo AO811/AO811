@@ -37,19 +37,19 @@ goal: Be the Next Tech Magician 🔥
 
 ---
 
-### 📈 GitHub Activity Graph
+## 📈 GitHub Activity Graph
 ![Abhik's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AO811&theme=tokyonight&hide_border=true)
 
 ---
 
-### 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=AO811&theme=tokyonight&no-frame=true" alt="GitHub Trophies">
 </p>
 
 ---
 
-### 🐍 Snake Contribution
+## 🐍 Snake Contribution
 <p align="center">
   <img src="https://raw.githubusercontent.com/AO811/AO811/main/dist/github-contribution-grid-snake.svg" />
 </p>
@@ -62,10 +62,16 @@ goal: Be the Next Tech Magician 🔥
   <img src="https://streak-stats.demolab.com?user=AO811&theme=tokyonight" height="160px" />
 </p>
 
+---
+
+## 🔥 GitHub Streak Progress
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=AO811&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak Progress">
+</p>
 
 ---
 
-### 💡 LeetCode Profile
+## 💡 LeetCode Profile
 If you love coding challenges, check out my LeetCode journey! 🚀  
 
 <p align="center">
@@ -74,7 +80,7 @@ If you love coding challenges, check out my LeetCode journey! 🚀
   </a>
 </p>
 
-### 📊 LeetCode Stats
+## 📊 LeetCode Stats
 <p align="center">
   <a href="https://leetcode.com/Aggreoto/">
     <img src="https://leetcard.jacoblin.cool/Aggreoto?font=Fira%20Code&ext=heatmap" alt="LeetCode Stats Card"/>
@@ -82,7 +88,7 @@ If you love coding challenges, check out my LeetCode journey! 🚀
 </p>
 
 ---
-### 💬 Let's Connect
+## 💬 Let's Connect
 <p align="center">
   <a href="https://www.linkedin.com/in/abhikdas0811">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge"/>
@@ -93,7 +99,7 @@ If you love coding challenges, check out my LeetCode journey! 🚀
 </p>
 
 ---
-### 📌 Fun Quote
+## 📌 Fun Quote
 ![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
