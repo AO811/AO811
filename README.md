@@ -18,14 +18,13 @@ current_focus: Full Stack Development | Cybersecurity | Data Analytics
 learning: DSA + Web Dev
 goal: Be the Next Tech Magician 🔥
 beyond code: Playing Chess ♟️
-
 ```
 
 ---
 
 ## 🛠️ **Technical Skills**
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,javascript,mongodb,mysql,react,nodejs,expressjs,html,css,bootstrap,git,github,vscode,eclipse,arduino,raspberrypi" />
+  <img src="https://skillicons.dev/icons?i=java,python,javascript,mongodb,mysql,react,nodejs,expressjs,html,css,bootstrap,vercel,aws,git,github,vscode,eclipse,arduino,raspberrypi" />
 </div>
 
 ---
