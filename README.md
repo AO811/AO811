@@ -17,6 +17,7 @@ age: 20
 current_focus: Full Stack Development | Cybersecurity | Data Analytics
 learning: DSA + Web Dev
 goal: Be the Next Tech Magician 🔥
+beyond code: Playing Chess ♟️
 
 ```
 
@@ -64,13 +65,6 @@ goal: Be the Next Tech Magician 🔥
 
 ---
 
-## 🔥 GitHub Streak Progress
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=AO811&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak Progress">
-</p>
-
----
-
 ## 💡 LeetCode Profile
 If you love coding challenges, check out my LeetCode journey! 🚀  
 
@@ -93,6 +87,7 @@ If you love coding challenges, check out my LeetCode journey! 🚀
   <a href="https://www.linkedin.com/in/abhikdas0811">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge"/>
   </a>
+  &nbsp; &nbsp;
   <a href="mailto:abhikdas0811@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail" alt="Gmail Badge"/>
   </a>
