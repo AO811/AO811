@@ -98,6 +98,13 @@ If you love coding challenges, check out my LeetCode journey! 🚀
 
 ---
 
+## ♟️ Play Chess with Me
+Love chess? Challenge me to a game! 🎯  
+<br>
+[![Chess.com](https://img.shields.io/badge/Chess.com-000000?style=for-the-badge&logo=chess.com&logoColor=white)](https://www.chess.com/member/Aggreoto)  
+
+---
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AO811&color=blue" alt="Profile Views"/>
 </p>
