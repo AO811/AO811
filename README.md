@@ -38,7 +38,7 @@ beyond code: Playing Chess ♟️
 ---
 
 ## 📈 GitHub Activity Graph
-![Abhik's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AO811&theme=tokyonight&hide_border=true)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AO811&theme=tokyonight&bg_color=0d1117&color=00ffff&line=0088ff&point=00ccff&area=true&hide_border=true)
 
 ---
 
