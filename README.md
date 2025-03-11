@@ -37,6 +37,14 @@ beyond code: Playing Chess ♟️
 
 ---
 
+## 📊 Most Used Languages
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AO811&theme=tokyonight" height="160px" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AO811&theme=tokyonight" height="160px" />
+</p>
+
+---
+
 ## 📈 GitHub Activity Graph
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AO811&theme=tokyonight&bg_color=0d1117&color=00ffff&line=0088ff&point=00ccff&area=true&hide_border=true)
 
