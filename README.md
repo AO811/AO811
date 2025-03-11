@@ -85,7 +85,7 @@ If you love coding challenges, check out my LeetCode journey! 🚀
 ## 💬 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/abhikdas0811">
+  <a href="https://www.linkedin.com/in/abhik-das-284b0a253/">
     <img src="https://skillicons.dev/icons?i=linkedin" width="48" height="48" alt="LinkedIn" />
   </a>
   &nbsp; &nbsp;
