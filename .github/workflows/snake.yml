@@ -2,8 +2,10 @@ name: Generate Snake Contribution 🐍
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Runs every midnight
-  workflow_dispatch:
+    - cron: "0 0 * * *" # Runs automatically every midnight UTC
+  push:
+    branches:
+      - main  # Runs automatically whenever you push to main
 
 jobs:
   snake:
@@ -16,11 +18,12 @@ jobs:
         uses: Platane/snk@v3
         with:
           github_user_name: AO811
-          output: dist/github-contribution-grid-snake.svg # Corrected from 'outputs' to 'output'
+          outputs: |
+            dist/github-contribution-grid-snake.svg  # Saves the file correctly
 
       - name: Commit and Push Changes
         uses: EndBug/add-and-commit@v9
         with:
-          message: "🐍 Snake Contribution Generated"
+          message: "🐍 Snake Contribution Updated"
           add: "dist/github-contribution-grid-snake.svg"
           push: true
