@@ -81,14 +81,16 @@ If you love coding challenges, check out my LeetCode journey! 🚀
 </p>
 
 ---
+
 ## 💬 Let's Connect
+
 <p align="center">
   <a href="https://www.linkedin.com/in/abhikdas0811">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" width="48" height="48" alt="LinkedIn" />
   </a>
   &nbsp; &nbsp;
   <a href="mailto:abhikdas0811@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail" alt="Gmail Badge"/>
+    <img src="https://skillicons.dev/icons?i=gmail" width="48" height="48" alt="Gmail" />
   </a>
 </p>
 
