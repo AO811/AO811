@@ -24,7 +24,7 @@ beyond code: Playing Chess ♟️
 
 ## 🛠️ **Technical Skills**
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,javascript,mysql,mongodb,react,nodejs,expressjs,html,css,bootstrap,tailwind,vercel,aws,git,github,vscode,eclipse,arduino,raspberrypi" />
+  <img src="https://skillicons.dev/icons?i=java,python,javascript,mysql,mongodb,cassandra,react,nodejs,expressjs,html,css,bootstrap,tailwind,vercel,aws,git,github,vscode,eclipse,arduino,raspberrypi" />
 </div>
 
 ---
