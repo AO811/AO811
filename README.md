@@ -29,7 +29,7 @@ beyond code: Playing Chess ♟️
 
 ---
 
-## 🚀 **Projects**
+## 🚀 **Recent Projects**
 - [Employee Management System](https://github.com/AO811/Employee-Management-System) - Developed using **Java Swing** and **MySQL**  
 - [Spotify EDA](https://github.com/AO811/SpotifyEDA) - EDA using **Pandas**, **NumPy**, **Matplotlib**, **Seaborn**  
 - [MERN Hotel Booking System](https://github.com/AO811/MERN-Hotel-Booking-System) - Built with **MERN Stack** + **Bootstrap**  
@@ -67,7 +67,6 @@ beyond code: Playing Chess ♟️
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AO811&show_icons=true&theme=tokyonight" height="160px" />
-  <img src="https://streak-stats.demolab.com?user=AO811&theme=tokyonight" height="160px" />
 </p>
 
 ---
