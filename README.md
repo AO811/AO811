@@ -92,13 +92,17 @@ If you love coding challenges, check out my LeetCode journey! 🚀
 ## 💬 Let's Connect
 
 <p align="center">
+  <a href="mailto:abhikdas0811@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="48" height="48" alt="Gmail" />
+  </a>
+  &nbsp; &nbsp;
   <a href="https://www.linkedin.com/in/abhik-das-284b0a253/">
     <img src="https://skillicons.dev/icons?i=linkedin" width="48" height="48" alt="LinkedIn" />
   </a>
   &nbsp; &nbsp;
-  <a href="mailto:abhikdas0811@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" width="48" height="48" alt="Gmail" />
-  </a>
+  <a href="https://www.instagram.com/__abhik__das__/">
+    <img src="https://skillicons.dev/icons?i=instagram" width="48" height="48" alt="Instagram" />
+  </a> 
 </p>
 
 ---
