@@ -80,13 +80,6 @@ If you love coding challenges, check out my LeetCode journey! 🚀
   </a>
 </p>
 
-## 📊 GitHub Stats & Streak
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AO811&show_icons=true&theme=tokyonight" height="160px" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AO811&theme=tokyonight" height="160px" />
-</p>
-
-
 ---
 
 ## 💬 Let's Connect
