@@ -4,9 +4,14 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=82aaff&center=true&vCenter=true&width=500&lines=Welcome+to+My+GitHub+Profile!;Passionate+about+Tech+and+Innovation" alt="Typing SVG" />
 </div>
 
+<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 20px;">
+  <div>
+    <h1>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm <b>Abhik</b></h1>
+    <h3>🚀 A Passionate Computer Science Student & Future Software Engineer</h3>
+  </div>
+  <img src="https://github.com/AO811/AO811/blob/main/octocat-1742059616975.png" width="150px"/>
+</div>
 
-# Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm **Abhik**
-### 🚀 A Passionate Computer Science Student & Future Software Engineer  
 
 
 ---
