@@ -80,12 +80,12 @@ If you love coding challenges, check out my LeetCode journey! 🚀
   </a>
 </p>
 
-## 📊 LeetCode Stats
+## 📊 GitHub Stats & Streak
 <p align="center">
-  <a href="https://leetcode.com/Aggreoto/">
-    <img src="https://leetcard.jacoblin.cool/Aggreoto?font=Fira%20Code&ext=heatmap" alt="LeetCode Stats Card"/>
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=AO811&show_icons=true&theme=tokyonight" height="160px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AO811&theme=tokyonight" height="160px" />
 </p>
+
 
 ---
 
