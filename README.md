@@ -105,7 +105,7 @@ If you love coding challenges, check out my LeetCode journey! 🚀
 </p>
 
 ---
-## 📌 Fun Quote
+## 📌 Dev Quote
 ![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
