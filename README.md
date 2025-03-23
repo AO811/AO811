@@ -82,9 +82,16 @@ If you love coding challenges, check out my LeetCode journey! 🚀
 
 <p align="center">
   <a href="https://leetcode.com/Aggreoto/">
+    <img src="https://leetcard.jacoblin.cool/Aggreoto?ext=heatmap" alt="LeetCode Heatmap"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://leetcode.com/Aggreoto/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Badge"/>
   </a>
 </p>
+
 
 ---
 
