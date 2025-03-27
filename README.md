@@ -30,7 +30,7 @@ beyond code: Playing Chess ♟️
 
 ## 🛠️ **Technical Skills**
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,javascript,mysql,mongodb,cassandra,react,nodejs,expressjs,html,css,bootstrap,tailwind,vercel,aws,git,github,vscode,eclipse,linux,kali,arduino,raspberrypi" />
+  <img src="https://skillicons.dev/icons?i=java,python,javascript,mysql,mongodb,cassandra,redis,react,nodejs,expressjs,html,css,bootstrap,tailwind,vercel,aws,git,github,vscode,eclipse,linux,kali,arduino,raspberrypi" />
 </div>
 
 ---
