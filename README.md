@@ -40,7 +40,7 @@ beyond code: Playing Chess ♟️
 - [Employee Management System](https://github.com/AO811/Employee-Management-System) - Developed using **Java Swing** and **MySQL**  
 - [Spotify EDA](https://github.com/AO811/SpotifyEDA) - EDA using **Pandas**, **NumPy**, **Matplotlib**, **Seaborn**  
 - [MERN Hotel Booking System](https://github.com/AO811/MERN-Hotel-Booking-System) - Built with **MERN Stack** + **Bootstrap**
-- 
+
 ---
 
 ## 📊 Most Used Languages
