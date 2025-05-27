@@ -36,11 +36,11 @@ beyond code: Playing Chess ♟️
 ---
 
 ## 🚀 **Recent Projects**
+- [Wireshark Network Tracking with Google Maps](https://github.com/AO811/Wireshark-Network-Tracking-With-Google-Maps) Network threat monitoring tool using Python, Tkinter, Folium, and AbuseIPDB+VirusTotal APIs.
 - [Employee Management System](https://github.com/AO811/Employee-Management-System) - Developed using **Java Swing** and **MySQL**  
 - [Spotify EDA](https://github.com/AO811/SpotifyEDA) - EDA using **Pandas**, **NumPy**, **Matplotlib**, **Seaborn**  
-- [MERN Hotel Booking System](https://github.com/AO811/MERN-Hotel-Booking-System) - Built with **MERN Stack** + **Bootstrap**  
-- [Geekathon Travel Planner](https://github.com/AO811/Geekathon_TravelPlanner) - Static project with **HTML**, **CSS**, and **JavaScript**  
-
+- [MERN Hotel Booking System](https://github.com/AO811/MERN-Hotel-Booking-System) - Built with **MERN Stack** + **Bootstrap**
+- 
 ---
 
 ## 📊 Most Used Languages
