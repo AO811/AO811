@@ -22,7 +22,7 @@ name: Abhik Das
 age: 20
 current_focus: Full Stack Development | Cybersecurity | Data Analytics
 learning: DSA + Web Dev
-goal: Be the Next Tech Magician 🔥
+goal: Be the Next Tech Wizard 🧙
 beyond code: Playing Chess ♟️
 ```
 
